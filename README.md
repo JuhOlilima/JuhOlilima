@@ -1,8 +1,6 @@
 <h2 align="center"> 👋 Oi</h2>
 <h3 align="center">Seja bem vindo!</h3>
 
-<img>
-
 ### 💬 Um pouco sobre mim
 - Nome: Julia Oliveira
 - Idade: 15 anos
